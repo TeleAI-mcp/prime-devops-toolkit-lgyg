@@ -1,2 +1,3 @@
-# prime-devops-toolkit-lgyg
-Automated issue comment bot repository
+# Prime Devops Toolkit Lgyg
+
+Automated issue comment bot repository.
